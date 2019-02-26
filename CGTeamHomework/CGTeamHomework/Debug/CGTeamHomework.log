@@ -1,0 +1,164 @@
+﻿生成启动时间为 2019/1/20 23:34:06。
+     1>项目“C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\CGTeamHomework\CGTeamHomework.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CGTeamHomework.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp Car.cpp CBMPLoader.cpp CCurve.cpp CEuler.cpp CMatrix.cpp CQuaternion.cpp CubeBoundingVolume.cpp CVector.cpp GameManager.cpp Main.cpp Skybox.cpp SphereBoundingVolume.cpp TextureManager.cpp Track.cpp Wheel.cpp
+         Wheel.cpp
+         Track.cpp
+         TextureManager.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\texturemanager.cpp(34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\texturemanager.cpp(35): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+         SphereBoundingVolume.cpp
+         Skybox.cpp
+         Main.cpp
+         GameManager.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\gamemanager.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\gamemanager.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+         CVector.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cvector.cpp(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cvector.cpp(108): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CubeBoundingVolume.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(20): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(24): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(60): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cubeboundingvolume.cpp(86): warning C4305: “初始化”: 从“double”到“float”截断
+         CQuaternion.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cquaternion.cpp(119): warning C4101: “res”: 未引用的局部变量
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cquaternion.cpp(139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cquaternion.cpp(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cquaternion.cpp(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cquaternion.cpp(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CMatrix.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(169): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(187): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(193): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cmatrix.cpp(200): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+         CEuler.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(42): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(47): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(53): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(58): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(66): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(71): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ceuler.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CCurve.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\ccurve.cpp(164): warning C4305: “初始化”: 从“int”到“float”截断
+         CBMPLoader.cpp
+     1>c:\users\86501\desktop\学习资料\计算机图形学\大作业\5\cgteamhomework\cgteamhomework\cbmploader.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+         Car.cpp
+         Camera.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CGTeamHomework.exe.embed.manifest.res" Debug\CGTeamHomework_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CGTeamHomework.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.lib" /MACHINE:X86 Debug\CGTeamHomework.exe.embed.manifest.res
+         Debug\Camera.obj
+         Debug\Car.obj
+         Debug\CBMPLoader.obj
+         Debug\CCurve.obj
+         Debug\CEuler.obj
+         Debug\CMatrix.obj
+         Debug\CQuaternion.obj
+         Debug\CubeBoundingVolume.obj
+         Debug\CVector.obj
+         Debug\GameManager.obj
+         Debug\Main.obj
+         Debug\Skybox.obj
+         Debug\SphereBoundingVolume.obj
+         Debug\TextureManager.obj
+         Debug\Track.obj
+         Debug\Wheel.obj
+       Manifest:
+         正在删除文件“Debug\CGTeamHomework.exe.embed.manifest”。
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CGTeamHomework.exe.embed.manifest" /manifest Debug\CGTeamHomework.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CGTeamHomework.exe.embed.manifest.res" Debug\CGTeamHomework_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CGTeamHomework.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.lib" /MACHINE:X86 Debug\CGTeamHomework.exe.embed.manifest.res
+         Debug\Camera.obj
+         Debug\Car.obj
+         Debug\CBMPLoader.obj
+         Debug\CCurve.obj
+         Debug\CEuler.obj
+         Debug\CMatrix.obj
+         Debug\CQuaternion.obj
+         Debug\CubeBoundingVolume.obj
+         Debug\CVector.obj
+         Debug\GameManager.obj
+         Debug\Main.obj
+         Debug\Skybox.obj
+         Debug\SphereBoundingVolume.obj
+         Debug\TextureManager.obj
+         Debug\Track.obj
+         Debug\Wheel.obj
+         CGTeamHomework.vcxproj -> C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\Debug\CGTeamHomework.exe
+       PostBuildEvent:
+         copy ..\debug\*.exe ..\lib\
+         :VCEnd
+         ..\debug\CGTeamHomework.exe
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CGTeamHomework.unsuccessfulbuild”。
+         正在对“Debug\CGTeamHomework.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\5\CGTeamHomework\CGTeamHomework\CGTeamHomework.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:18.08

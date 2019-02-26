@@ -1,0 +1,24 @@
+﻿  Camera.cpp
+  Car.cpp
+  GameManager.cpp
+  Main.cpp
+  正在生成代码...
+Car.obj : error LNK2019: 无法解析的外部符号 __imp_glutSolidCube，该符号在函数 "public: void __cdecl Car::DrawNPCCar2(void)" (?DrawNPCCar2@Car@@QEAAXXZ) 中被引用
+TextureManager.obj : error LNK2001: 无法解析的外部符号 __imp_glutSolidCube
+Main.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 glutInit_ATEXIT_HACK 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 glutCreateWindow_ATEXIT_HACK 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，该符号在函数 "void __cdecl myDisplay(void)" (?myDisplay@@YAXXZ) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutTimerFunc，该符号在函数 "void __cdecl myTimerFunc(int)" (?myTimerFunc@@YAXH@Z) 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutSpecialFunc，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardUpFunc，该符号在函数 main 中被引用
+Main.obj : error LNK2019: 无法解析的外部符号 __imp_glutSpecialUpFunc，该符号在函数 main 中被引用
+Main.obj : error LNK2001: 无法解析的外部符号 "private: static class GameManager * GameManager::instance" (?instance@GameManager@@0PEAV1@EA)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\lib\x64\glut32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\86501\Desktop\学习资料\计算机图形学\大作业\CGTeamHomework\x64\Debug\CGTeamHomework.exe : fatal error LNK1120: 16 个无法解析的外部命令
